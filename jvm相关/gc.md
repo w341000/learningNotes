@@ -2,6 +2,10 @@
 大多数情况下,对象都将在新生代Eden区分配中分配.当Eden区中没有足够的空间进行分配时,
 虚拟机将发起一次Minor GC
 
+## Major GC/ FULL GC  
+
+指的是发生在老年代的GC,出现了Major GC/FULL GC一般至少伴随一次Minor GC,Major GC的收集速度一般会比Minor GCman10倍以上.  
+
 ## GC Root
 在jvm的实现中,判断对象是否存活是通过可达性分析来实现的.  
 该算法的基本思想是通过一系列称为`GC Roots`的对象作为起始点,进行向下搜索.  
