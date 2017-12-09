@@ -13,6 +13,7 @@
 - [jvm相关](/jvm相关)
   + [GC](/jvm相关/gc.md)
   + [jvm内存分配](/jvm相关/jvm内存分配.md)
+  + [jvm中内存区域的划分](/jvm相关/jvm中的内存区域.md)
   + [类加载器与双亲委派模型](/jvm相关/类加载器与双亲委派模型.md)
 - [spring相关](/spring相关)
   + [spring中ioc与aop](/spring相关/spring中Ioc与Aop.md)
