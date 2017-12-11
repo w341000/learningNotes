@@ -18,6 +18,7 @@
   + [类加载器与双亲委派模型](/jvm相关/类加载器与双亲委派模型.md)
 - [spring相关](/spring相关)
   + [spring中ioc与aop](/spring相关/spring中Ioc与Aop.md)
+  + [bean的生命周期](/spring相关/bean的生命周期.md)
 - [web相关](/web相关)
   + [springmvc运行流程](/web相关/springmvc运行流程.md)
   + [过滤器与拦截器的关系](/web相关/Java过滤器与SpringMVC拦截器之间的关系与区别.md)
