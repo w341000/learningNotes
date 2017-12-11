@@ -11,6 +11,7 @@
 - [线程相关](/线程相关)
   + [多线程的实现方式](/线程相关/多线程实现方式.md)
   + [CAS与Synchronized的区别](/线程相关/CAS与synchronized的区别.md)
+  + [线程的5种状态](/线程相关/线程的5种状态.md)
 - [jvm相关](/jvm相关)
   + [GC](/jvm相关/gc.md)
   + [jvm内存分配](/jvm相关/jvm内存分配.md)
